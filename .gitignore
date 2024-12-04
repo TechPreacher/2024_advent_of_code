@@ -402,3 +402,6 @@ FodyWeavers.xsd
 
 # Puzzle Input Folder
 input/
+
+# Mac
+.DS_Store
